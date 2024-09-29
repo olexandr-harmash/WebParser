@@ -1,0 +1,55 @@
+# Visual Studio
+.vs/
+*.sln
+*.user
+*.userosscache
+*.suo
+*.tmp
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.dSYM/
+*.pdb
+*.exe
+*.dll
+*.app
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.sln.ide
+*.userprefs
+
+# Rider
+.idea/
+
+# Backup files
+*~
+*.bak
+
+# Others
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.vscode/
+*.cache
+*.log
+*.swp
