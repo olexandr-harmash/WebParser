@@ -18,3 +18,12 @@
   cd ./WebParser
   dotnet run
 ```
+
+**результат работы**
+Для приведенных документов и слова в Program.cs результат будет таким.
+
+```bash
+  Term Frequency (TF) of 'ukrainian': 0.010414398722693955
+  Inverse Document Frequency (IDF) of 'ukrainian': 0
+  Cosine Similarity between documents: 0.8149539154275957
+```
